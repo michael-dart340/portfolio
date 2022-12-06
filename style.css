@@ -1,0 +1,72 @@
+h1 {font-family: monospace;
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+    color:white;
+}
+body {background-color: silver;}
+        
+#home { font-family: monospace;
+    position: absolute; 
+    top: 34px;
+    font-size: 13px;
+    : 
+}
+
+h3 {text-align: center;
+    font-family:monospace;
+    }
+
+img {display:block;
+     margin-left: auto;
+     margin-right: auto;}
+nav {text-align: center}
+
+        
+#clicktogohome { font-family: monospace;
+    position: absolute; 
+    top: 34px;
+    font-size: 12px;
+    color:white;
+    
+}
+
+#menu { font-family: monospace;
+        font-size: 30px;
+        background-color: red;
+        }
+#lowermenu { font-family: monospace;
+        font-size: 26px;
+        background-color: blue;
+        ;}
+
+#thelowermenu { font-family: monospace;
+        font-size: 26px;
+        background-color: mediumorchid;
+        ;}
+#thelowestmenu { font-family: monospace;
+        font-size: 26px;
+        background-color: green;
+        ;}
+
+a{color: white;
+text-decoration: none;}
+
+p {font-family: monospace;
+   text-align: center;
+font-size: 20px;}
+
+button {background-color: red;
+font-size: 50px;}
+
+#JOE {background-color: purple;}
+#ROB {background-color: blue;}
+
+#DONATE {background-color:darkorange;}  
+
+canvas {display: block;
+        margin-left: auto;
+        margin-right: auto;}
+
+table {margin-left: auto;
+    margin-right: auto;}
